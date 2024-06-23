@@ -1,0 +1,1 @@
+# java-vulnerable-artifact-partially-used
